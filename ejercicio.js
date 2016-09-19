@@ -1,10 +1,12 @@
 
-/*window.addEventListener("load",function(){
+window.addEventListener("load",function(){
 	var boton=document.getElementById("button");
-	boton.addEventListener("click",function(){
+	boton.addEventListener("click",function(e){
+		e.preventDefault();
 		var texto =document.getElementById("textarea").value;
 		newTweet(texto);
 		document.getElementById("textarea").value = "";
+
 	});
 
 	function newTweet(texto){
@@ -18,4 +20,4 @@
 			contenedor.insertBefore(button,contenedor.childNodes[0])
 		}
 	}
-});*/
+});
