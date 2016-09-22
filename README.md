@@ -11,6 +11,8 @@ Versión 0.0.2:
 No ingresar texto vacío (deshabilitar el botón de enviar).
 Contar la cantidad de caracteres de forma regresiva.
 
+![](http://1.1m.yt/ZWUaTSR.jpg)
+
 Versión 0.0.3:
 Si pasa los 140 caracteres, deshabilitar el botón.
 Si pasa los 120 caracteres, mostrar el contador con OTRO color.
