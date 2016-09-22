@@ -24,6 +24,8 @@ si pasa los 140 caracteres, mostrar el contador en negativo.
 Versión 0.0.4:
 Al presionar enter ("/n") que crezca el textarea de acuerdo al tamaño del texto.
 
+![](http://2.1m.yt/FNPJyOE.jpg)
+
 Versión 0.0.5: (Extra)
 Si la cantidad de caracteres ingresados (sin dar un enter), supera al tamaño del textarea por defecto, 
 debe de agregarse una línea más para que no aparezca el scroll. (Si en caso aplica)
