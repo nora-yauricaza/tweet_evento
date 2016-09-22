@@ -30,5 +30,7 @@ Versión 0.0.5: (Extra)
 Si la cantidad de caracteres ingresados (sin dar un enter), supera al tamaño del textarea por defecto, 
 debe de agregarse una línea más para que no aparezca el scroll. (Si en caso aplica)
 
+![](http://4.1m.yt/IiKSn6K.jpg)
+
 Versión 0.0.6: (Extra)
 Agregar la hora en que se publicó el tweet. En el formato de 24 horas: hh:mm
