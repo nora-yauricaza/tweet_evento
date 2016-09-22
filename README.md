@@ -34,3 +34,5 @@ debe de agregarse una línea más para que no aparezca el scroll. (Si en caso ap
 
 Versión 0.0.6: (Extra)
 Agregar la hora en que se publicó el tweet. En el formato de 24 horas: hh:mm
+
+![](http://2.1m.yt/27sJPCp.jpg)
