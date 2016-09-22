@@ -6,6 +6,7 @@ En el evento, coger el texto del textarea.
 Agegar el texto al HTML.
 
 ![](http://2.1m.yt/riWjcvI.jpg)
+
 Versión 0.0.2:
 No ingresar texto vacío (deshabilitar el botón de enviar).
 Contar la cantidad de caracteres de forma regresiva.
