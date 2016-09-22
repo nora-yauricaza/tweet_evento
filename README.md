@@ -4,7 +4,7 @@ Diseñar un formulario que tenga un textarea y un botón.
 Agregar un evento de click al botón o un evento de submit al formulario.
 En el evento, coger el texto del textarea.
 Agegar el texto al HTML.
-http://2.1m.yt/riWjcvI.jpg
+
 ![](http://3.1m.yt/v_P6Ljg.jpg)
 
 Versión 0.0.2:
@@ -18,6 +18,8 @@ Si pasa los 140 caracteres, deshabilitar el botón.
 Si pasa los 120 caracteres, mostrar el contador con OTRO color.
 Si pasa los 130 caracteres, mostrar el contador con OTRO color.
 si pasa los 140 caracteres, mostrar el contador en negativo.
+
+![](http://2.1m.yt/riWjcvI.jpg)
 
 Versión 0.0.4:
 Al presionar enter ("/n") que crezca el textarea de acuerdo al tamaño del texto.
