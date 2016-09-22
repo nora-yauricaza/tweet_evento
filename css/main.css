@@ -1,0 +1,25 @@
+.purple{
+	color: purple;
+}
+.yellow{
+	color: yellow;
+}
+.blue{
+	color: blue;
+}
+body{
+	background-color: #9FF781;
+	text-align: center;
+}
+textarea{  
+  overflow:hidden;
+  padding:10px;
+  width:250px;
+  margin:50px auto;
+  display:block;
+  border-radius:10px;
+  border:6px solid #000000;
+}
+h1{
+  color: red;
+}
